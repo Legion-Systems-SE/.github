@@ -1,4 +1,4 @@
-# Project Legion SE: Acoustic AGI Architecture
+# Legion: Acoustic AGI Architecture
 
 > **Research & Development Hub for Spatially-Addressed Sparse Neural Topologies**
 
@@ -24,4 +24,12 @@ This architecture proposes a paradigm shift from computationally dense matrix mu
 ## 4. Implementation & R&D Pathway
 The theoretical framework of Acoustic AGI is currently undergoing localized, modular stress-testing to validate the micro-mechanics of signal routing, tensor manipulation, and structural stability. 
 
-* **Empirical Validation of Tensor-Waveform Homology:** Tests demonstrate that applying gain-equivalent scaling directly to latent tensors does not destroy the data structure. Unlike the fragile nature of visual/graphic diffuser decoders, audio-based waveform
+* **Empirical Validation of Tensor-Waveform Homology:** Tests demonstrate that applying gain-equivalent scaling directly to latent tensors does not destroy the data structure. Unlike the fragile nature of visual/graphic diffuser decoders, audio-based waveform decoders can successfully translate these amplified tensor states, generating fully readable outputs. Localized testing also confirms that quantizing hyper-variable nodes effectively forces data consolidation.
+* **Single-Bash Modular Testing:** Current R&D utilizes isolated Python packages to intentionally induce errors and instability within tensor operations. By forcing the system into edge cases, the exact failure thresholds where a signal flips 180-degrees out of phase are being mapped.
+* **The Semantic Topography and Node Generation:** To accurately map the adversarial behavior of the dual-signal pathways, a custom, mathematically transparent encoder must be trained from the ground up to replace opaque models like CLIP. 
+* **The Scalability Horizon & Simulation Requirements:** While localized testing validates micro-clusters, observing the emergent macro-behaviors of the network requires scaling the topography to millions of nodes. Transitioning to a high-compute environment capable of rendering the full 3D virtual sphere is the immediate next phase, allowing the Overseer mechanism to map and differentiate between structural harmony and informational distortion in a live system.
+
+---
+
+### Acknowledgments
+*The author wishes to acknowledge the utility of Google's Gemini AI as an interactive computational sounding board during the R&D and drafting phases of this conceptual architecture. The AI provided structural organization and nomenclature translation, assisting in the bridging of cross-disciplinary waveform dynamics and systems engineering frameworks.*
