@@ -1,4 +1,4 @@
-# Legion: Acoustic AGI Architecture
+# Project Legion SE: Acoustic AGI Architecture
 
 > **Research & Development Hub for Spatially-Addressed Sparse Neural Topologies**
 
