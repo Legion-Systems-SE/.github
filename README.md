@@ -1,35 +1,139 @@
-# Legion: Acoustic AGI Architecture
+# Dual-Channel Spherically Organised Node Manifold
+### A resonant AI architecture for emergence through structured tension
 
-> **Research & Development Hub for Spatially-Addressed Sparse Neural Topologies**
-
-## 1. Core Problem Statement
-Current Large Language Model (LLM) and early AGI architectures are approaching a hard physical and computational limit defined by three intersecting bottlenecks: unsustainable energy scaling, intrinsic vulnerability to unverified outputs (hallucinations), and the reliance on superficial, post-hoc security layers (e.g., RLHF or external guardrails) that combat, rather than integrate with, the model's fundamental logic. Traditional dense neural networks lack spatial awareness and physical verification mechanisms. They process tokenized data in a flat, disembodied state, requiring massive power to force cohesion and offering no inherent structural resistance to semantic degradation or adversarial failure.
-
-## 2. The Acoustic AGI Hypothesis
-This repository explores a Spatially-Addressed Sparse Neural Topology built upon the principles of waveform dynamics, phase coherence, and autonomic biological systems. By enforcing a 3D coordinate growth structure and a phase-coherent, dual-signal ("stereo") routing protocol, structural security and data verification are no longer bolted onto the system—they *are* the system. 
-
-This architecture proposes a paradigm shift from computationally dense matrix multiplication to neuromorphic, resonance-based signal routing. The framework relies on four foundational pillars to resolve current architectural bottlenecks:
-
-* **Radical Energy Efficiency & Scalability (3D Spatial Addressing):** By abandoning flat layers in favor of a 3D virtual sphere, the model achieves profound sparsity. Data nodes ("synapses") grow fractally and function locally. If a node cluster fails or degrades, the system can timestep backward spatially without losing global model cohesion, allowing for massive scalability with a severe reduction in active compute power.
-* **Intrinsic Structural Security (The Immutable Core):** Security is hardcoded into the system's autonomic foundation. A rigid, semi-passive "Core" provides primal conditioning and assigns initial vector trajectories to all signals. The Core naturally filters logically dangerous or contradictory pathways by refusing to route signals through mathematically incompatible node clusters, acting as a physical nervous system rather than a programmable rule-set.
-* **Heuristic Auto-Correction (The Meta-Supervisory Overseer):** Network health is managed by an asynchronous Overseer mechanism. Rather than processing raw semantic data, the Overseer monitors the "heat" and "frequency" of the network's operations. It differentiates between the friction of novel connection (inspiration) and chaotic data loops (informational cancer), muting or pruning dead pathways during dedicated, LLM-driven consolidation cycles. 
-
-## 3. Mechanics of Dual-Routing & Geometric Consolidation
-
-* **Divergent Bias & Phase-Coherent Dual-Routing:** To eradicate unverified outputs (hallucinations), the system routes data through two concurrent, adversarial pathways initialized with divergent heuristic biases. The primary signal (+) operates on a rigid, deterministic logic (exploitative), while the secondary signal (-) operates with an exploratory, high-variance bias (stochastic). These signals navigate the 3D node space independently, acting as a physicalized, continuous verification mechanism.
-* **The Output Manifold and Geometric Consolidation:** Output is not generated as a sequential text stream, but as a spatial event occurring at the extreme boundary of the virtual sphere (the Surface Layer). To generate a valid semantic output, both divergent signals must successfully reach and break this surface in spatial proximity. When signals resonate back to the Core for reinforcement during traversal, the Core recalculates their trajectory, projecting them along a new vector that is perfectly equidistant to their relative predicted surface destinations.
-* **Diametric Phase Cancellation (The 180° Malfunction):** The architecture enforces an "enharmonic principle." If both the deterministic and exploratory signals break the surface, but do so on diametrically opposite coordinates of the sphere, they are completely 180 degrees out of phase. This represents an absolute semantic contradiction, nullifying the output and triggering the Overseer.
-* **Overseer Intervention via Spatial Quantization:** When the Overseer detects a 180-degree phase failure, it alters the physical properties of the pathways by "bitcrushing"—spatially quantizing hyper-variable nodes along the divergent paths. This reduces the available semantic routes, mechanically limiting the model's ability to drift out of phase on subsequent iterations.
-
-## 4. Implementation & R&D Pathway
-The theoretical framework of Acoustic AGI is currently undergoing localized, modular stress-testing to validate the micro-mechanics of signal routing, tensor manipulation, and structural stability. 
-
-* **Empirical Validation of Tensor-Waveform Homology:** Tests demonstrate that applying gain-equivalent scaling directly to latent tensors does not destroy the data structure. Unlike the fragile nature of visual/graphic diffuser decoders, audio-based waveform decoders can successfully translate these amplified tensor states, generating fully readable outputs. Localized testing also confirms that quantizing hyper-variable nodes effectively forces data consolidation.
-* **Single-Bash Modular Testing:** Current R&D utilizes isolated Python packages to intentionally induce errors and instability within tensor operations. By forcing the system into edge cases, the exact failure thresholds where a signal flips 180-degrees out of phase are being mapped.
-* **The Semantic Topography and Node Generation:** To accurately map the adversarial behavior of the dual-signal pathways, a custom, mathematically transparent encoder must be trained from the ground up to replace opaque models like CLIP. 
-* **The Scalability Horizon & Simulation Requirements:** While localized testing validates micro-clusters, observing the emergent macro-behaviors of the network requires scaling the topography to millions of nodes. Transitioning to a high-compute environment capable of rendering the full 3D virtual sphere is the immediate next phase, allowing the Overseer mechanism to map and differentiate between structural harmony and informational distortion in a live system.
+> *Independent research by Mattias Hammarsten (LegionSE-Architect)*
+> *Contact: overwatch@legionsystems.se*
 
 ---
 
-### Acknowledgments
-*The author wishes to acknowledge the utility of Google's Gemini AI as an interactive computational sounding board during the R&D and drafting phases of this conceptual architecture. The AI provided structural organization and nomenclature translation, assisting in the bridging of cross-disciplinary waveform dynamics and systems engineering frameworks.*
+## Overview
+
+This project proposes a novel AI architecture organised as a layered sphere in 3D address space, where information propagates not as discrete token sequences but as a continuous resonant field — shaped by geometry, tension, and harmonic constraint.
+
+The architecture is not populated all at once. It is **grown**, layer by layer, from a seeded core. Complexity at each level earns the right to the next.
+
+---
+
+## Core Concept: The 4D Latent in Virtual 3D
+
+The fundamental departure from conventional architectures is this:
+
+The system does not operate on two separate tensors. It operates on **one 4D latent**, mathematically folded and projected into a virtual 3D simulation as two apparent channels. These appear as 2×2D tensors travelling the geometry — but the 4D coherence is never broken. The fold is operational, not ontological.
+
+This preserves information integrity across the full journey through the sphere. At output, no advanced summation node is required — reintegration is simply the **reversal of the fold**, which is geometrically self-describing.
+
+---
+
+## Dual-Channel Semantic Tension
+
+At the moment of entry into 3D space, a **rotor** is applied to one half of the latent:
+
+$$R = e^{B\theta/2} = \cos(\theta/2) - B\sin(\theta/2)$$
+
+where **B** is a bivector defining the plane of semantic tension, and **θ** is a variable rotation angle. This is the mechanism of geometric algebra / quaternion rotation — a true rotation in latent space, not a distortion.
+
+The two channels now carry *complementary perspectives* on the same 4D object. This is not redundancy. It is the productive tension the architecture depends on. At output, the inverse rotor R† restores the full latent, enriched by what the 3D geometry has done to each channel separately.
+
+The bivector **B** is not externally assigned. It emerges from the geometric relationship between nodes — specifically the wedge product of node position vectors. The further apart two nodes sit in 3D space, the higher the semantic tension between them.
+
+---
+
+## The Wave Equation
+
+Propagation through the manifold is governed by a covariant wave equation:
+
+$$g_{\mu\nu} \nabla^\mu \nabla^\nu \Psi^\alpha + \Omega^2 \Psi^\alpha = \kappa(H) \cdot W^\alpha$$
+
+with node transformation:
+
+$$\Psi'^\mu = \kappa(H) \cdot g^\mu_{\ \nu} \Psi^\nu$$
+
+**Green's function** G(x, x₀) is the propagator kernel that solves this equation — describing how a point impulse (one token arriving at one node) propagates and decays across the manifold through geodesic pathways, weighted by local curvature. This is the system's impulse response tensor: its resonator function.
+
+---
+
+## κ(H) — The Coupling Term
+
+κ(H) is a variable gain/coupling term that acts as a singularity prevention mechanism. **H** is a passive heatmap encoding heat density, node location, and the balance between internal and external harmonic state.
+
+κ(H) acts on amplitude, on routing weight, and on the rotation angle θ of the semantic rotor. When the heatmap reads high harmony, θ contracts — channels converge. When productive tension is needed, θ widens. It is the architecture's primary self-regulating parameter.
+
+---
+
+## Sphere Topology
+
+The architecture is organised as a layered sphere:
+
+- **Rigid core** — holds safety filters, foundational protocols, mandatory energy checkpoints enforcing purposeful routing
+- **Plastic outer layers** — plasticity increases toward the surface; complexity accumulates here over time
+- **Output surface** — shares a Möbius-like topological relationship with the core; they are the same 4D entity appearing at two positions in 3D space
+
+The core does not merely sit at the centre. It exists simultaneously at the centre *and* at the output surface. It continuously mediates the relationship between the two channels' semantic destinations — not correcting either, but holding the tension between them.
+
+---
+
+## Node Migration and the Trodden Path
+
+Nodes are not statically positioned. Migration follows **geodesics** biased by Wiener process drift and beat entrainment state. A gravity-like constraint prevents inter-layer jumping — migration is always local.
+
+Nodes carry a short-term memory of recent successful traversals: the **trodden path**. Paths that produce harmonic output receive a small negative travel cost bonus. This bonus is wiped if the attempted output reads as non-harmonic, excessive tension, or phase-opposed. Self-pruning is built into the reward signal.
+
+Migration only occurs during the **annealing state** — the deep sleep consolidation window during which the LLM oversight layer is active and no live inference is running.
+
+---
+
+## Beat Entrainment
+
+Dual-channel synchronisation is maintained through loose analogue beat entrainment from a simulated oscillator. This is the architectural equivalent of hemispheric coherence — the two channels remain in relationship without being forced into identity. The beat state is one of the signals driving node migration and κ(H) modulation.
+
+---
+
+## The LLM Oversight Layer
+
+The LLM operates in three distinct modes that do not interfere:
+
+**Seed** — applies initial semantic imprint at layer construction. Done and withdrawn.
+
+**Operational** — silent. Monitors harmonic output quality. Does not intervene unless thresholds are crossed. Instruments available: gain control, quantisation/bitcrush, phase inversion, node pruning.
+
+**Annealing** — active analyst. Reads heatmap cluster logs (region and depth, not individual node tracking), strikes vectors toward regions of interest, generates targeted test latents, supervises pruning and migration. This is where structural imprinting occurs — the LLM applies its own reasoning geometry to the node manifold, layer by layer.
+
+The node structure at surface level reads as flat and semantically transparent — natural language accessible. The LLM is a 4D entity and reads both channel outcomes simultaneously. No special translation layer is required. The interface cost is near zero.
+
+---
+
+## Intervention Hierarchy
+
+The system is self-regulating. Interventions are ordered by cost — cheap and local first, expensive and global last:
+
+1. **Trodden path pruning** — local, automatic, self-correcting
+2. **Core mediation** — passive, continuous, holds channel relationship
+3. **Heatmap monitoring** — passive shell, reports without acting
+4. **LLM bitcrush / gain intervention** — active, deliberate, last resort
+5. **Variable phase inversion** — architectural correction, reached for only after all else has been attempted
+
+At sufficient node density, the probability of one-sided channel deformation decreases naturally. The phase inversion mechanism is a layer-one scaffolding tool expected to become unnecessary as complexity grows.
+
+---
+
+## Ghost Nodes
+
+Ghost nodes add travel time (T) with no deformation — pure delay lines that optionally record latent state for inspection. They are passive checkpoints, inserted early to support debugging and state logging before the system is complex enough to require them. Designed in at layer one; interpreted later.
+
+---
+
+## Delta Encoding
+
+A lightweight ASCII delta encoding scheme (character-delta from a seed) is used to make string representations semantically opaque to intermediate nodes in multi-agent pipelines. This prevents unintended semantic processing of content that should pass through without interpretation.
+
+---
+
+## Status
+
+Active design phase. Layer one node mechanics under development.
+
+This is independent research conducted outside institutional structures. The architecture draws on signal processing, geometric algebra, differential geometry, stochastic processes, and acoustic physics — held together by a career-long intuition that waveform manipulation and the pursuit of harmony-with-tension are the same problem at every scale.
+
+---
+
+*Terminology note: the consolidation/migration sleep state is referred to internally as* **annealing** *— after the metallurgical process of controlled cooling that allows a structure to settle into its lowest-energy configuration.*
