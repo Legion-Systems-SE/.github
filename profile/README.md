@@ -36,6 +36,17 @@ physical constants. Five functions, two differences, and a dot product.
   that maps constants to angular positions and computes resonance between
   any pair in real time.
 
+#### [The Dimensional Peel](https://legionsystems.se/peel.html)
+
+The clock is a projection — 8D curvature structure collapsed to one
+angle. The Dimensional Peel strips that projection away, layer by layer,
+revealing orthogonal pairs (γ₂ ⊥ γ₃ at exactly 90°), dipole axes
+(k_B ↔ h at 178.5°), and structural clusters invisible on the dial.
+
+Seven hotlinks map the Clay Millennium Problems to specific peel states
+where each problem's structural connection is visible — including an
+observer-dependent resolution of P vs NP.
+
 ---
 
 ## Method
